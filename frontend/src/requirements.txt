@@ -1,0 +1,9 @@
+flask
+flask-cors
+google-generativeai
+pillow
+moviepy
+gtts
+requests
+apscheduler
+gunicorn
